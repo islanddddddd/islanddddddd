@@ -1,20 +1,10 @@
-### Hi there 👋
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=islanddddddd&show_icons=true&theme=dracula)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=islanddddddd&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islanddddddd)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islanddddddd&layout=compact)]
-<!--
-**islanddddddd/islanddddddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![wakatime](https://wakatime.com/badge/user/037224ca-fc1a-422d-8e29-404a6cf49687.svg)](https://wakatime.com/@037224ca-fc1a-422d-8e29-404a6cf49687)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=islanddddddd&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islanddddddd&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@islanddddddd&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
