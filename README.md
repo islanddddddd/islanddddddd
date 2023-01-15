@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![islanddddddd's github stats](https://github-readme-stats.vercel.app/api?username=islanddddddd "![islanddddddd's github stats")](https://github.com/islanddddddd/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra "![Anurag's github stats")](https://github.com/anuraghazra/github-readme-stats)
+[![islanddddddd's github stats](https://github-readme-stats.vercel.app/api?username=islanddddddd "![islanddddddd's github stats")](https://github.com/islanddddddd/readme)
 <!--
 **islanddddddd/islanddddddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
