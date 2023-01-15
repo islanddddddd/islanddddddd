@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=islanddddddd&show_icons=true&theme=dracula)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=islanddddddd&show_icons=true&theme=transparent&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=islanddddddd&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islanddddddd)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **islanddddddd/islanddddddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
