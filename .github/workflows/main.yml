@@ -1,4 +1,4 @@
-# Visit https://github.com/lowlighter/metrics#-documentation  for full reference
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
   # Schedule updates (each hour)
@@ -19,6 +19,8 @@ jobs:
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
+          #  - public_repo
+          #  - read:project
           # The following additional scopes may be required:
           #  - read:org      (for organization related metrics)
           #  - read:user     (for user related data)
@@ -31,6 +33,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
+          config_twemoji: yes
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
@@ -43,3 +46,5 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
+          plugin_projects: yes
+          plugin_projects_limit: 4
