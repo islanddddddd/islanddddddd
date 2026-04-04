@@ -28,6 +28,6 @@ jobs:
 
           # Options
           user: islanddddddd
-          template: terminal
+          template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
