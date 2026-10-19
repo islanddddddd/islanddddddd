@@ -15,18 +15,6 @@
 
 ---
 
-<!-- NOTE: Do NOT add urlclash-converter or kivibot-plugin-chatStatistics to this profile. See .github/PROFILE_RULES.md -->
-
-### 🌟 Featured Projects / 精选开源项目
-
-| 项目名称 | 描述 | 技术 / 标签 | 链接 |
-| :--- | :--- | :--- | :--- |
-| **[sql_to_Chen_ER](https://github.com/islanddddddd/sql_to_Chen_ER)** | 简单快速将 SQL 或 DBML 转换为陈氏概念 ER 模型，在线可视化工具 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![ER-Diagram](https://img.shields.io/badge/Tool-Online-blue?style=flat-square) | [Repo](https://github.com/islanddddddd/sql_to_Chen_ER) |
-| **[novel-copilot](https://github.com/islanddddddd/novel-copilot)** | 网络小说抓取、文本排版与辅助阅读工具集 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Scraper](https://img.shields.io/badge/Tools-Scraping-yellow?style=flat-square) | [Repo](https://github.com/islanddddddd/novel-copilot) |
-| **[reverend-insanity-wiki](https://github.com/islanddddddd/reverend-insanity-wiki)** | 蛊真人主题 Wiki 知识库及内容索引系统 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Wiki](https://img.shields.io/badge/Community-Wiki-informational?style=flat-square) | [Repo](https://github.com/islanddddddd/reverend-insanity-wiki) |
-
----
-
 ### 🤖 Everyday AI Stack / 常用 AI 工具
 
 <div align="center">
@@ -40,6 +28,18 @@
     <img src="https://img.shields.io/badge/WorkBuddy-8B5CF6?style=for-the-badge&logo=sparkles&logoColor=white" alt="WorkBuddy" />
   </p>
 </div>
+
+---
+
+<!-- NOTE: Do NOT add urlclash-converter or kivibot-plugin-chatStatistics to this profile. See .github/PROFILE_RULES.md -->
+
+### 🌟 Featured Projects / 精选开源项目
+
+| 项目名称 | 描述 | 技术 / 标签 | 链接 |
+| :--- | :--- | :--- | :--- |
+| **[sql_to_Chen_ER](https://github.com/islanddddddd/sql_to_Chen_ER)** | 简单快速将 SQL 或 DBML 转换为陈氏概念 ER 模型，在线可视化工具 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![ER-Diagram](https://img.shields.io/badge/Tool-Online-blue?style=flat-square) | [Repo](https://github.com/islanddddddd/sql_to_Chen_ER) |
+| **[novel-copilot](https://github.com/islanddddddd/novel-copilot)** | 网络小说抓取、文本排版与辅助阅读工具集 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Scraper](https://img.shields.io/badge/Tools-Scraping-yellow?style=flat-square) | [Repo](https://github.com/islanddddddd/novel-copilot) |
+| **[reverend-insanity-wiki](https://github.com/islanddddddd/reverend-insanity-wiki)** | 蛊真人主题 Wiki 知识库及内容索引系统 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Wiki](https://img.shields.io/badge/Community-Wiki-informational?style=flat-square) | [Repo](https://github.com/islanddddddd/reverend-insanity-wiki) |
 
 ---
 
