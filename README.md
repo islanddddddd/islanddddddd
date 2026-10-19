@@ -27,23 +27,19 @@
 
 ---
 
-### 🤖 Everyday AI Tools / 常用 AI 工具
+### 🤖 Everyday AI Stack / 常用 AI 工具
 
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/DeepSeek-Harness-0066FF?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek Harness" />
-    <img src="https://img.shields.io/badge/Google-Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Antigravity" />
-    <img src="https://img.shields.io/badge/Claude-Code-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
-    <img src="https://img.shields.io/badge/WorkBuddy-AI_Assistant-8B5CF6?style=flat-square" alt="WorkBuddy" />
+    <img src="https://img.shields.io/badge/DeepSeek_Harness-0066FF?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek Harness" />
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/WorkBuddy-8B5CF6?style=for-the-badge&logo=sparkles&logoColor=white" alt="WorkBuddy" />
   </p>
 </div>
-
-| AI 工具 | 定位与核心用途 |
-| :--- | :--- |
-| **DeepSeek Harness** | 大模型测试、任务编排与深度推理调度工具链，探索前沿大模型能力边界 |
-| **Google Antigravity** | Google DeepMind 智能体协作系统，高效智能工程化与自主结对编程 |
-| **Claude Code** | 终端命令行级高智能开发 Agent，精通复杂架构重构与端到端代码实现 |
-| **WorkBuddy** | 桌面级多智能体协同办公与自动化工作流助手，全方位提升日常产出效率 |
 
 ---
 
